@@ -4,22 +4,31 @@ layout: home
 
 hero:
   name: "WinHelper"
-  text: "Windows System Productivity Tools for Work"
-  tagline: My great project tagline
+  # text: "Windows Top / Spy++"
+  tagline: Windows System Productivity Tools for Work
+  image:
+    src: /logo/home.png
+    alt: WinHelper Demo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Download
+      link: https://github.com/XMuli/WinHelper/releases
     - theme: alt
-      text: API Examples
+      text: Microsoft Store
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Windows Top
+    details: Always On Top is a quick and easy way to pin windows on top
+    icon: 
+      light: /images/home/windows_top.svg
+  - title: Spy++
+    details: Get the handle details of the specified window
+    icon: 
+      light: /images/home/spy.svg
+  - title: Color Picker	
+    details: Quick and Easy Magnifier and Color Grabber
+    icon: 
+      light: /images/home/color_picker.svg
 ---
 
