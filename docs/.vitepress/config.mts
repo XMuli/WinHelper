@@ -11,7 +11,7 @@ export default defineConfig({
     logo: '/logo/logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Functions', link: '/Functions' },
       { text: 'Licenses', link: '/Licenses' },
     ],
 
@@ -19,9 +19,9 @@ export default defineConfig({
       {
         text: 'Introduce',
         items: [
+          { text: 'Functions', link: '/Functions' },
           { text: 'Licenses', link: '/Licenses' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
         ]
       }
     ],
