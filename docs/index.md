@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "WinHelper"
-  # text: "Windows Top / Spy++"
+  # text: "Windows Topping\nSpy++"
   tagline: Windows System Productivity Tools for Work
   image:
     src: /logo/home.png
@@ -14,8 +14,11 @@ hero:
       text: Download
       link: https://github.com/XMuli/WinHelper/releases
     - theme: alt
-      text: Microsoft Store
-      link: /api-examples
+      text: Microsoft Store🎉
+      link: https://github.com/XMuli/WinHelper/releases
+    - theme: alt
+      text: Feedback
+      link: https://github.com/XMuli/WinHelper/issues
 
 features:
   - title: Windows Topping
@@ -33,7 +36,7 @@ features:
     icon: 
       light: /images/home/antivirus.svg
       dark:  /images/home/antivirus_2.svg
-  - title: Color Picker	
+  - title: Color Picker [TBD]	
     details: Quick and Easy Magnifier and Color Grabber
     icon: 
       light: /images/home/color_picker.svg

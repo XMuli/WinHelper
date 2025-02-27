@@ -2,7 +2,7 @@
 
 Quick and easy way to pin windows on top.
 
-
+ <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202502272145188.png" width="75%"/>
 
 ## Spy++
 
@@ -13,6 +13,8 @@ Retrieve the target window's handle and other pertinent details.
 Press the shortcut key once to start and again to stop. For some windows requiring administrative privileges, capturing them also necessitates running as an administrator.
 
 :::
+
+ <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202502272147384.png" width="75%"/>
 
 
 
@@ -26,6 +28,16 @@ Easy to turn off Microsoft Defender Anti-Virus.
 
 :::
 
+ <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202502272152394.png" width="75%"/>
+
+**Description**
+
+- **Stop:** Microsoft Defender Antivirus does not run, and will not scan computers for malware or other potentially unwanted software
+- **Start:** Windows will internally manage Microsoft Defender Antivirus. If you install another antivirus program, Windows automatically disables Microsoft Defender Antivirus. Otherwise, Microsoft Defender Antivirus will scan your computers for malware and other potentially unwanted software.
+- **Fore_enable:** Microsoft Defender Antivirus will run regardless of any other installed antivirus product
+
+
+
 
 
 ## Color Picker
@@ -34,6 +46,8 @@ Quick and Easy Magnifier and Color Grabber.
 
 
 
-# About
+## About
 
 Display the current software version information.
+
+ <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202502272153041.png" width="75%"/>

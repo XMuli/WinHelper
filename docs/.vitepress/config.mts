@@ -12,7 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Functions', link: '/functions' },
-      { text: 'Licenses', link: '/licenses' },
+      // { text: 'Licenses', link: '/licenses' },
     ],
 
     sidebar: [
@@ -21,7 +21,7 @@ export default defineConfig({
         items: [
           { text: 'Functions', link: '/functions' },
           { text: 'Licenses', link: '/licenses' },
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          // { text: 'Markdown Examples', link: '/markdown-examples' },
         ]
       }
     ],
