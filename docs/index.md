@@ -18,17 +18,25 @@ hero:
       link: /api-examples
 
 features:
-  - title: Windows Top
-    details: Always On Top is a quick and easy way to pin windows on top
+  - title: Windows Topping
+    details: Quick and easy way to pin windows on top
     icon: 
       light: /images/home/windows_top.svg
+      dark:  /images/home/windows_top_2.svg
   - title: Spy++
-    details: Get the handle details of the specified window
+    details: Retrieve the target window's handle and other pertinent details.
     icon: 
       light: /images/home/spy.svg
+      dark:  /images/home/spy_2.svg
+  - title: Microsoft Defender Close 
+    details: Easy to turn off Microsoft Defender Anti-Virus
+    icon: 
+      light: /images/home/antivirus.svg
+      dark:  /images/home/antivirus_2.svg
   - title: Color Picker	
     details: Quick and Easy Magnifier and Color Grabber
     icon: 
       light: /images/home/color_picker.svg
+      dark:  /images/home/color_picker_2.svg
 ---
 

@@ -86,7 +86,9 @@ SOFTWARE.
 
 ## ShortcutInput
 
-> Multiple ways to implement a shortcut input box control that is cross-platform. 多种方法实现 快捷键输入框控件，且跨平台。 [GitHub](https://github.com/SunnyCapturer/ShortcutInput)
+> Multiple ways to implement a shortcut input box control that is cross-platform. 
+>
+> 多种方法实现 快捷键输入框控件，且跨平台。 [GitHub](https://github.com/SunnyCapturer/ShortcutInput)
 
 ```html
 MIT License

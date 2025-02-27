@@ -11,16 +11,16 @@ export default defineConfig({
     logo: '/logo/logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Functions', link: '/Functions' },
-      { text: 'Licenses', link: '/Licenses' },
+      { text: 'Functions', link: '/functions' },
+      { text: 'Licenses', link: '/licenses' },
     ],
 
     sidebar: [
       {
         text: 'Introduce',
         items: [
-          { text: 'Functions', link: '/Functions' },
-          { text: 'Licenses', link: '/Licenses' },
+          { text: 'Functions', link: '/functions' },
+          { text: 'Licenses', link: '/licenses' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
         ]
       }
