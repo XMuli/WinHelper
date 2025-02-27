@@ -50,8 +50,8 @@ export default defineConfig({
       }
     },
 
-    search: {
-      provider: 'local'
-    },
+    // search: {
+    //   provider: 'local'
+    // },
   }
 })
