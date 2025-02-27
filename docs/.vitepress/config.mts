@@ -9,18 +9,19 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo/logo.svg',
-    // siteTitle: 'Hello World',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Licenses', link: '/Licenses' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Introduce',
         items: [
+          { text: 'Licenses', link: '/Licenses' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Runtime API Examples', link: '/api-examples' },
         ]
       }
     ],
@@ -32,7 +33,7 @@ export default defineConfig({
 
     // footer: {
     //   message: 'Enjoy it on Windows 10 / 11.',
-    //   copyright: 'Copyright © 2025-present <a href="https://github.com/XMuli" target="_blank" rel="noopener">XMuli</a>'
+    //   copyright: 'Copyright © 2024-2025 <a href="https://github.com/XMuli" target="_blank" rel="noopener">XMuli</a>'
     // },
 
     editLink: {
