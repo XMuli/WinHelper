@@ -1,16 +1,19 @@
+
 # WinHelper
 
-> Windows System Productivity Tools for Work
+> 本项目收录于 [product](https://product.xmuli.tech)
 
-[<img src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="35%"/>](https://apps.microsoft.com/detail/9nxcr474hjvq?mode=direct)
+Windows System Productivity Tools for Work
+
+[<img src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="200"/>](https://apps.microsoft.com/detail/9nxcr474hjvq?mode=direct)
 
 
 
 **Site:**
 
-- [GitHub](https://github.com/XMuli/WinHelper/releases)
+- GitHub: [GitHub](https://github.com/XMuli/WinHelper/releases)
 
-- [http://winhelper.xmuli.tech](http://winhelper.xmuli.tech/)
+- WebSite: [http://winhelper.xmuli.tech](http://winhelper.xmuli.tech/)
 
 
 
