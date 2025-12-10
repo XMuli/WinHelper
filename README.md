@@ -30,7 +30,7 @@ Windows System Productivity Tools for Work
 
 
 **Ref：**
-
+本网站使用：https://vuejs.github.io/vitepress/v1/zh/guide/getting-started v1.6.4 版本的教程
 - https://vitepress.dev/
 
 - https://github.com/XMuli/SunnyCapturer/edit/office_site2024/docs/index.md

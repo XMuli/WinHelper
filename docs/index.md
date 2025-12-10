@@ -4,42 +4,22 @@ layout: home
 
 hero:
   name: "Quick Utilities Suite"
-  # text: "Windows Topping\nSpy++"
-  tagline: Windows System Productivity Tools for Work
-  image:
-    src: /logo/home.png
-    alt: QuickUtilitiesSuite Demo
+  text: "Windows Productivity Tools: Always-on-Top, Spy++, Color Picker, and More."
+  tagline: My great project tagline
   actions:
     - theme: brand
-      text: Download
-      link: https://github.com/XMuli/QuickUtilitiesSuite/releases
+      text: Markdown Examples
+      link: /markdown-examples
     - theme: alt
-      text: Microsoft Store⬇️
-      link: https://apps.microsoft.com/detail/9NXCR474HJVQ
-    - theme: alt
-      text: Feedback
-      link: https://github.com/XMuli/QuickUtilitiesSuite/issues
+      text: API Examples
+      link: /api-examples
 
 features:
-  - title: Windows Topping
-    details: Quick and easy way to pin windows on top
-    icon: 
-      light: /images/home/windows_top.svg
-      dark:  /images/home/windows_top_2.svg
-  - title: Spy++
-    details: Retrieve the target window's handle and other pertinent details.
-    icon: 
-      light: /images/home/spy.svg
-      dark:  /images/home/spy_2.svg
-  - title: Color Picker
-    details: Quick and Easy Magnifier and Color Grabber
-    icon: 
-      light: /images/home/color_picker.svg
-      dark:  /images/home/color_picker_2.svg
-  - title: Microsoft Defender Close 
-    details: Easy to turn off Microsoft Defender Anti-Virus
-    icon: 
-      light: /images/home/antivirus.svg
-      dark:  /images/home/antivirus_2.svg
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
