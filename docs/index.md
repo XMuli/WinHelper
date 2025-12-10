@@ -3,22 +3,22 @@
 layout: home
 
 hero:
-  name: "WinHelper"
+  name: "Quick Utilities Suite"
   # text: "Windows Topping\nSpy++"
   tagline: Windows System Productivity Tools for Work
   image:
     src: /logo/home.png
-    alt: WinHelper Demo
+    alt: QuickUtilitiesSuite Demo
   actions:
     - theme: brand
       text: Download
-      link: https://github.com/XMuli/WinHelper/releases
+      link: https://github.com/XMuli/QuickUtilitiesSuite/releases
     - theme: alt
       text: Microsoft Store⬇️
       link: https://apps.microsoft.com/detail/9NXCR474HJVQ
     - theme: alt
       text: Feedback
-      link: https://github.com/XMuli/WinHelper/issues
+      link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
   - title: Windows Topping
