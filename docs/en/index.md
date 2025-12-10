@@ -4,48 +4,51 @@ layout: home
 
 hero:
   name: "Quick Utilities Suite"
-  text: "Life Productivity Tools"
-  tagline: My great project tagline
+  text: "Quick Utilities Suite"
+  tagline: Curated window utilities to boost your workflow
   image:
     src: /home_page/home_page.png
     alt: Quick Utilities Suite logo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Microsoft Store ↓
+      link: https://apps.microsoft.com/detail/9NXCR474HJVQ
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub Releases
+      link: https://github.com/XMuli/QuickUtilitiesSuite/releases
+    - theme: alt
+      text: Feedback & Issues
+      link: https://github.com/XMuli/QuickUtilitiesSuite/issues
 
 features:
   - title: Quick ColorPicker
-    details: Quick and Easy Magnifier and Color Grabber
+    details: Magnify and pick any on-screen color; quickly grab the pixel under your cursor for design, palettes, and UI debugging.
     icon: 
-      light: /images/home/color_picker.svg
-      dark:  /images/home/color_picker_2.svg
-  - title: Quick SnapTranslate
-    details: Capture the screen and translate the captured image
-    icon: 
-      light: /images/home/color_picker.svg
-      dark:  /images/home/color_picker_2.svg
+      light: /images/home_features/QuickColorPicker.svg
+      dark:  /images/home_features/QuickColorPicker.svg
   - title: Quick SnapOCR
-    details: Capture the screen and extract text from images
+    details: One-click screenshot plus OCR; extract text from any image, webpage, or document and copy it fast.
     icon: 
-      light: /images/home/color_picker.svg
-      dark:  /images/home/color_picker_2.svg
+      light: /images/home_features/QuickSnapOCR.svg
+      dark:  /images/home_features/QuickSnapOCR.svg
+  - title: Quick SnapTranslate
+    details: Screenshot and translate image content into other languages—auto-detect text and translate captions/labels across languages.
+    icon: 
+      light: /images/home_features/QuickSnapTranslate.svg
+      dark:  /images/home_features/QuickSnapTranslate.svg
   - title: Quick WindowInspector
-    details: Retrieve the target window's handle and other pertinent details
+    details: handle, PID, title, client rect, device pixel ratio (DPR), executable path, and more—ideal for debugging and management.
     icon: 
-      light: /images/home/spy.svg
-      dark:  /images/home/spy_2.svg
+      light: /images/home_features/QuickWindowInspector.svg
+      dark:  /images/home_features/QuickWindowInspector.svg
   - title: Quick AlwaysOnTop
-    details: Quick and easy way to pin windows on top
-    icon: 
-      light: /images/home/windows_top.svg
-      dark:  /images/home/windows_top_2.svg
+    details: Pin or unpin any window on top with one click—keep key or tool windows always in front.
+    icon:
+      light: /images/home_features/QuickAlwaysOnTop.svg
+      dark: /images/home_features/QuickAlwaysOnTop.svg
   - title: Quick DefenderToggle
-    details: Easy to turn off Microsoft Defender Anti-Virus
-    icon: 
-      light: /images/home/antivirus.svg
-      dark:  /images/home/antivirus_2.svg
+    details: Quickly enable or disable Microsoft Defender Antivirus; for advanced users who may need to temporarily pause protection (run as admin).
+    icon:
+      light: /images/home_features/QuickDefenderToggle.svg
+      dark: /images/home_features/QuickDefenderToggle.svg
 --- 
