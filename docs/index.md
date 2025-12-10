@@ -24,31 +24,31 @@ features:
   - title: 快速·屏幕取色器
     details: Quick and Easy Magnifier and Color Grabber
     icon: 
-      light: /images/home/color_picker.svg
-      dark:  /images/home/color_picker_2.svg
+      light: /images/home_features/QuickColorPicker.svg
+      dark:  /images/home_features/QuickColorPicker.svg
   - title: 快速·提取图片文本 (OCR)
     details: 提供屏幕截图，以及提取图片里面的文本
     icon: 
-      light: /images/home/color_picker.svg
-      dark:  /images/home/color_picker_2.svg
+      light: /images/home_features/QuickSnapOCR.svg
+      dark:  /images/home_features/QuickSnapOCR.svg
   - title: 快速·截图翻译
     details: 提供屏幕截图，以及对截图进行图片翻译
     icon: 
-      light: /images/home/color_picker.svg
-      dark:  /images/home/color_picker_2.svg
+      light: /images/home_features/QuickSnapTranslate.svg
+      dark:  /images/home_features/QuickSnapTranslate.svg
   - title: 快速·窗口侦查
     details: Retrieve the target window's handle and other pertinent details.
     icon: 
-      light: /images/home/spy.svg
-      dark:  /images/home/spy_2.svg
+      light: /images/home_features/QuickWindowInspector.svg
+      dark:  /images/home_features/QuickWindowInspector.svg
   - title: 快速·窗口置顶
     details: Quick and easy way to pin windows on top
     icon: 
-      light: /images/home/windows_top.svg
-      dark:  /images/home/windows_top_2.svg
+      light: /images/home_features/QuickAlwaysOnTop.svg
+      dark:  /images/home_features/QuickAlwaysOnTop.svg
   - title: 快速·Defender 开关
     details: Easy to turn off Microsoft Defender Anti-Virus
     icon: 
-      light: /images/home/antivirus.svg
-      dark:  /images/home/antivirus_2.svg
+      light: /images/home_features/QuickDefenderToggle.svg
+      dark:  /images/home_features/QuickDefenderToggle.svg
 ---
