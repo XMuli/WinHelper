@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "WinHelper",
+  title: "QuickUtilitiesSuite",
   description: "Windows System Productivity Tools for Work",
   head: [['link', { rel: 'icon', href: '/logo/favicon.ico' }]],
 
@@ -27,7 +27,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/XMuli/WinHelper' },
+      { icon: 'github', link: 'https://github.com/XMuli/QuickUtilitiesSuite' },
       { icon: 'gmail', link: 'https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=xmulitech@gmail.com' },
     ],
 
@@ -37,7 +37,7 @@ export default defineConfig({
     // },
 
     editLink: {
-      pattern: 'https://github.com/XMuli/WinHelper/edit/master/docs/:path',
+      pattern: 'https://github.com/XMuli/QuickUtilitiesSuite/edit/master/docs/:path',
       text: 'Edit this page on GitHub'
     },
 

@@ -1,5 +1,5 @@
 
-# WinHelper
+# QuickUtilitiesSuite
 
 > 本项目收录于 [product](https://product.xmuli.tech)
 
@@ -11,9 +11,9 @@ Windows System Productivity Tools for Work
 
 **Site:**
 
-- GitHub: [GitHub](https://github.com/XMuli/WinHelper/releases)
+- GitHub: [GitHub](https://github.com/XMuli/QuickUtilitiesSuite/releases)
 
-- WebSite: [http://winhelper.xmuli.tech](http://winhelper.xmuli.tech/)
+- WebSite: [http://QuickUtilitiesSuite.xmuli.tech](http://QuickUtilitiesSuite.xmuli.tech/)
 
 
 
