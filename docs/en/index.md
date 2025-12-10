@@ -3,52 +3,49 @@
 layout: home
 
 hero:
-  name: "快速·实用工具箱"
-  text: "Quick Utilities Suite"
-  tagline: 精选窗口工具，让工作更高效
+  name: "Quick Utilities Suite"
+  text: "Life Productivity Tools"
+  tagline: My great project tagline
   image:
     src: /home_page/home_page.png
     alt: Quick Utilities Suite logo
   actions:
     - theme: brand
-      text: Download
-      link: https://github.com/XMuli/QuickUtilitiesSuite/releases
+      text: Markdown Examples
+      link: /markdown-examples
     - theme: alt
-      text: Microsoft Store⬇️
-      link: https://apps.microsoft.com/detail/9NXCR474HJVQ
-    - theme: alt
-      text: Feedback
-      link: https://github.com/XMuli/QuickUtilitiesSuite/issues
+      text: API Examples
+      link: /api-examples
 
 features:
-  - title: 快速·屏幕取色器
+  - title: Quick ColorPicker
     details: Quick and Easy Magnifier and Color Grabber
     icon: 
       light: /images/home/color_picker.svg
       dark:  /images/home/color_picker_2.svg
-  - title: 快速·提取图片文本 (OCR)
-    details: 提供屏幕截图，以及提取图片里面的文本
+  - title: Quick SnapTranslate
+    details: Capture the screen and translate the captured image
     icon: 
       light: /images/home/color_picker.svg
       dark:  /images/home/color_picker_2.svg
-  - title: 快速·截图翻译
-    details: 提供屏幕截图，以及对截图进行图片翻译
+  - title: Quick SnapOCR
+    details: Capture the screen and extract text from images
     icon: 
       light: /images/home/color_picker.svg
       dark:  /images/home/color_picker_2.svg
-  - title: 快速·窗口侦查
-    details: Retrieve the target window's handle and other pertinent details.
+  - title: Quick WindowInspector
+    details: Retrieve the target window's handle and other pertinent details
     icon: 
       light: /images/home/spy.svg
       dark:  /images/home/spy_2.svg
-  - title: 快速·窗口置顶
+  - title: Quick AlwaysOnTop
     details: Quick and easy way to pin windows on top
     icon: 
       light: /images/home/windows_top.svg
       dark:  /images/home/windows_top_2.svg
-  - title: 快速·Defender 开关
+  - title: Quick DefenderToggle
     details: Easy to turn off Microsoft Defender Anti-Virus
     icon: 
       light: /images/home/antivirus.svg
       dark:  /images/home/antivirus_2.svg
----
+--- 
