@@ -26,6 +26,16 @@ features:
     icon: 
       light: /images/home_features/QuickColorPicker.svg
       dark:  /images/home_features/QuickColorPicker.svg
+  - title: Quick BulkFileCopy
+    details: Copy folders packed with tiny files (like node_modules) faster than the OS copy—less waiting, more doing.
+    icon:
+      light: /images/home_features/QuickBulkFileCopy.svg
+      dark: /images/home_features/QuickBulkFileCopy.svg
+  - title: Quick BulkFileDelete
+    details: Delete folders containing loads of small files—or huge directories—at high speed to avoid long waits.
+    icon:
+      light: /images/home_features/QuickBulkFileDelete.svg
+      dark: /images/home_features/QuickBulkFileDelete.svg
   - title: Quick SnapOCR
     details: One-click screenshot plus OCR; extract text from any image, webpage, or document and copy it fast.
     icon: 

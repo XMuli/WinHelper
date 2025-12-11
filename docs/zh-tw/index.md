@@ -26,6 +26,16 @@ features:
     icon: 
       light: /images/home_features/QuickColorPicker.svg
       dark:  /images/home_features/QuickColorPicker.svg
+  - title: 快速·批次檔案複製
+    details: 迅速複製包含大量小檔案的資料夾（如 node_modules），比系統複製更快，減少等待時間。
+    icon:
+      light: /images/home_features/QuickBulkFileCopy.svg
+      dark: /images/home_features/QuickBulkFileCopy.svg
+  - title: 快速·批次檔案刪除
+    details: 極速刪除包含大量小檔案或巨型資料夾，明顯縮短刪除時間，避免長時間等待。
+    icon:
+      light: /images/home_features/QuickBulkFileDelete.svg
+      dark: /images/home_features/QuickBulkFileDelete.svg
   - title: 快速·截圖取字 (OCR)
     details: 一鍵截圖並提取圖片中的文字；不論圖片、網頁或文件，都能快速辨識並複製文字。
     icon: 
