@@ -79,7 +79,20 @@ const sidebar = {
 export default defineConfig({
   title: 'Quick Utilities Suite',
   description: 'Windows Productivity Tools: Always-on-Top, Spy++, Color Picker, and More.',
-  head: [['link', { rel: 'icon', href: '/home_page/favicon.ico' }]],
+  head: [
+    // 现有 favicon
+    ['link', { rel: 'icon', href: '/home_page/favicon.ico' }],
+
+    // ➤ Umami 统计代码
+    [
+      'script',
+      {
+        defer: '',
+        src: 'http://43.133.214.13:3000/script.js',
+        'data-website-id': '0178171a-db69-41ee-9960-e0aee0994f27'
+      }
+    ]
+  ],
   locales: {
     root: {
       label: '简体中文',
