@@ -88,8 +88,8 @@ export default defineConfig({
       'script',
       {
         defer: '',
-        src: 'http://43.133.214.13:3000/script.js',
-        'data-website-id': '0178171a-db69-41ee-9960-e0aee0994f27'
+        src: 'https://umami.xmuli.tech/script.js',
+        'data-website-id': '718d56f4-8cca-4c8b-b4ee-45cb3e103d63'
       }
     ]
   ],
