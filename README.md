@@ -39,20 +39,17 @@ Quick Utilities Suite 是下面所有软件的集合，且下面每一个功能�
 
 
 
-![Snipaste_2025-11-11_23-41-50](./assets/Snipaste_2025-11-11_23-41-50.png)
+ <img src="./docs/public/images/snapshoot/Quick ColorPicker.png" width="80%"/>
 
 
 
-![Snipaste_2025-11-11_23-41-27](./assets/Snipaste_2025-11-11_23-41-27.png)
-
-
-
-
+ <img src="./docs/public/images/snapshoot/Quick About.png" width="80%"/>
 
 
 
 **Ref：**
 本网站使用：https://vuejs.github.io/vitepress/v1/zh/guide/getting-started v1.6.4 版本的教程
+
 - https://vitepress.dev/
 
 - https://github.com/XMuli/SunnyCapturer/edit/office_site2024/docs/index.md
