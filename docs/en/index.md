@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Microsoft Store ↓
-      link: https://apps.microsoft.com/detail/9NXCR474HJVQ
+      link: https://apps.microsoft.com/detail/9PGNXC5HJMCV
     - theme: alt
       text: GitHub Releases
       link: https://github.com/XMuli/QuickUtilitiesSuite/releases

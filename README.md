@@ -5,7 +5,7 @@
 
 Windows System Productivity Tools for Work
 
-[<img src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="200"/>](https://apps.microsoft.com/detail/9nxcr474hjvq?mode=direct)
+[<img src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="200"/>](https://apps.microsoft.com/detail/9PGNXC5HJMCV?mode=direct)
 
 
 

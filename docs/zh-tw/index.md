@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 微軟商店下載 ↓
-      link: https://apps.microsoft.com/detail/9NXCR474HJVQ
+      link: https://apps.microsoft.com/detail/9PGNXC5HJMCV
     - theme: alt
       text: GitHub 下載
       link: https://github.com/XMuli/QuickUtilitiesSuite/releases
